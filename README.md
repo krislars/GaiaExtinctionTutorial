@@ -6,3 +6,5 @@ packages to calculate extinction corrections in Gaia passbands using synthetic p
 Tutorial by [Kristen Larson](https://github.com/krislars) and presented as a poster at the January 2023  American Astronomical Society meeting in Seattle, Washington. 
 
 Contributions welcome!
+
+[![astropy](http://img.shields.io/badge/powered%20by-AstroPy-orange.svg?style=flat)](http://www.astropy.org/)
